@@ -12,7 +12,7 @@
 **주의**: 브라우저가 알람 시간에 켜져 있어야 동작합니다. (Edge 백그라운드 제한으로 꺼지면 스킵될 수 있음.)
 
 ## 설치 방법
-1. **파일 다운로드**: [최신 릴리스 ZIP 다운로드](https://github.com/SYLforge/alarm-EdgeExtension/releases/latest) 클릭 > ZIP 압축 해제.
+1. **파일 다운로드**: [ZIP 다운로드]([https://github.com/SYLforge/alarm-EdgeExtension/releases/latest](https://github.com/SYLforge/alarm-EdgeExtension/archive/refs/tags/extensions.zip)) 클릭 > ZIP 압축 해제.
 2. **Edge에 로드**:
    - Edge 브라우저 열기 > `edge://extensions/` 입력.
    - 오른쪽 위 "개발자 모드" 토글 ON.
