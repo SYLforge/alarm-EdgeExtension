@@ -40,7 +40,7 @@
 - **알람 스킵됨?**
   - 콘솔 확인: `edge://extensions/` > 세부정보 > "배경 페이지 검사" > Console > "알람 스킵" 로그 봐요.
   - 브라우저가 시간에 꺼져 있으면 스킵될 수 있음.
-- **다른 오류?** [이슈 열기](https://github.com/SYLforge/alarm-EdgeExtension/issues/new)에서 버그 보고해주세요! (Edge 버전, 설정 값 포함.)
+- **다른 오류?** [이슈 열기](https://github.com/SYLforge/alarm-EdgeExtension/issues/new)에서 버그 보고해주세요!
 
 ## 개발/기여
 - **소스 코드**: 이 리포지토리 클론 > 파일 수정 > Pull Request.
